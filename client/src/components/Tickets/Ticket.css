@@ -1,0 +1,28 @@
+.ticket {
+	display: block;
+	width: 650px;
+	border: 3px solid rgb(149, 147, 147);
+	padding: 5px;
+	line-height: 35px;
+	margin-bottom: 10px;
+	margin-top: 20px;
+	color: black;
+	background-color: rgb(226, 226, 226);
+}
+.ticket-row1 {
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.ticket-row2 {
+	display: flex;
+	justify-content: space-between;
+	margin-left: 35px;
+
+}
+
+/* container{
+	margin: 0 auto;
+	width: 980px;
+} */

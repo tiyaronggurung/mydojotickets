@@ -1,0 +1,49 @@
+.main-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+	text-decoration: none;
+}
+
+.search-box input {
+	padding: 5px;
+	width: 260px;
+	border-radius: 25px;
+}
+
+.ticket-row1{
+	margin-left: 0px;
+}
+
+.detail-box{
+	margin: 0 auto;
+	
+}
+
+.detail-ticket{
+	
+	width: 67%;
+	margin: 0 auto;
+	padding: 0px;
+	border-radius: 5px;
+	
+}
+.detail-top{
+	display: flex;
+	background-color: rgb(158, 155, 158);
+	justify-content: space-between;
+	width: 60%;
+	
+}
+
+.row{
+	margin: 0 auto;
+	width: 90%;
+	/* background-color: red */
+}
+
+.container1{
+	margin: 0 auto;
+	width: 87%;
+	
+}
